@@ -67,6 +67,7 @@ public class MyController
 		
 		try
 		{
+			//Very very nice yes 
 			Integer.parseInt(example);
 			isValid = true;
 		}
